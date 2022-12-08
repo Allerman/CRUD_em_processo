@@ -16,7 +16,7 @@ void ler(cadastro *pessoas) {
   printf("O nome do hospital é: %s\n", pessoas->hospital);
   printf("A data da consulta é: %s\n", pessoas->data);
 
-  sleep(8);
+  sleep(5);
   system("pause");
   system("clear");
 }

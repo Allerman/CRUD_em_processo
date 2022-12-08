@@ -11,7 +11,7 @@ int alterar(cadastro *pessoas) {
                                 "3 - Alterar Hospital\n", "4 - Alterar Data\n"};
   printf(
       "\n================================================================\n");
-  printf("\t\t\t\t\t\tALTERAR CADASTRO");
+  printf("\t\t\tALTERAR CADASTRO");
   printf(
       "\n================================================================\n");
   printf("Escolha uma das opções a seguir:\n");
