@@ -15,7 +15,7 @@ void ler(cadastro *pessoas) {
   printf("O codigo da consulta é: %i\n", pessoas->cod_cons);
   printf("O nome do hospital é: %s\n", pessoas->hospital);
   printf("A data da consulta é: %s\n", pessoas->data);
-  
+
   sleep(8);
   system("pause");
   system("clear");
